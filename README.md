@@ -1,5 +1,4 @@
 # SQL-project-on-supply-chain-analysis
-# Enterprise Supply Chain Analytics Engine (T-SQL)
 
 An end-to-end relational database architecture, automated data factory, and Business Intelligence engine designed in Microsoft SQL Server (T-SQL). This project models a complex global supply chain ecosystem across 5 distinct business spheres, automatically generating over 2,500 transactional records to evaluate Year-on-Year (YoY) financial performance and product profitability.
 
@@ -37,6 +36,8 @@ The physical data model contains the following tables and structural design logi
 | **`shipments`** | Transactional | Surrogate (`IDENTITY`) | Direct relational alignment tracking actual transit dates and carrier fees. |
 
 ---
+<img width="1102" height="603" alt="Capturexoxo" src="https://github.com/user-attachments/assets/8649a9df-76a5-45c7-abb0-4e22d9549eb8" />
+
 
 ## 🚀 Key Technical Database Engineering Features
 
